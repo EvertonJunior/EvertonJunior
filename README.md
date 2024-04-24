@@ -12,3 +12,7 @@ Ainda estou me aperfeiçoando, meu foco por enquanto é Backend com JAVA, aqui n
 <a href="https://www.linkedin.com/in/jose-everton-silva-244560301/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
+
+### Meu último projeto: 
+
+- [Programa descobrir-folga](https://github.com/EvertonJunior/programa-descobrir-folga/)
