@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá Meu nome é José Everton Junior 👋
 
-<!--
-**EvertonJunior/EvertonJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🎓 Aluno de engenharia de software
 
-Here are some ideas to get you started:
+- 💻 Participante do programa DIO Santander bootcamp 2024 - Backend com Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ Amo tecnologia, astronomia e tomar café com as pessoas.
+
+Ainda estou me aperfeiçoando, meu foco por enquanto é Backend com JAVA, aqui no meu perfil irei compartilhar o meu desenvolvimento. 
+
+### Redes Sociais: 
+<a href="https://www.linkedin.com/in/jose-everton-silva-244560301/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a/>
