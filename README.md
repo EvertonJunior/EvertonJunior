@@ -16,5 +16,5 @@ Ainda estou me aperfeiçoando, meu foco por enquanto é Backend com Java, aqui n
 
 ### Meu último projeto: 
 
+- [API Fisio](https://github.com/EvertonJunior/api-fisio)
 - [Restaurant Reservation](https://github.com/EvertonJunior/restaurant-reservation-springboot-jpa)
-- [Movie Catalog](https://github.com/EvertonJunior/moviecatalog-mongodb-springboot)
