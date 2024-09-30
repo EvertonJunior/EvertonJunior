@@ -1,12 +1,9 @@
-### Olá Meu nome é José Everton Junior 👋
+### Olá, meu nome é José Everton 👋
 
-- 👨🏻‍🎓 Aluno de engenharia de software
+Sou desenvolvedor de software backend com conhecimento em API 's escritas em Java.
 
-- 💻 Participante do programa DIO Santander bootcamp 2024 - Backend com Java
-
-- ❤️ Amo tecnologia, astronomia e tomar café com as pessoas.
-
-Ainda estou me aperfeiçoando, meu foco por enquanto é Backend com Java, aqui no meu perfil irei compartilhar o meu desenvolvimento. 
+Conhecimento na linguagem Java com criação de API’s usando Spring Boot, conhecimento em banco de dados relacionais (MySQL) e não relacional (MongoDB), conhecimento em teste unitários, testes de integração, autenticação de usuários com Spring Security e JWT Token, documentação de API’s usando Spring Doc e Swagger e conhecimento em Docker.
+ 
 
 ### Redes Sociais: 
 <a href="https://www.linkedin.com/in/joseeverton">
@@ -14,7 +11,7 @@ Ainda estou me aperfeiçoando, meu foco por enquanto é Backend com Java, aqui n
 <a/>
 
 
-### Meu último projeto: 
+### Meus últimos projetos: 
 
-- [API Fisio](https://github.com/EvertonJunior/api-fisio)
-- [Restaurant Reservation](https://github.com/EvertonJunior/restaurant-reservation-springboot-jpa)
+- Em produção: [API Fisio](https://github.com/EvertonJunior/api-fisio)
+- Concluído: [Restaurant Reservation](https://github.com/EvertonJunior/restaurant-reservation-springboot-jpa)
