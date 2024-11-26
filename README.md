@@ -14,4 +14,4 @@ Conhecimento na linguagem Java com criação de API’s usando Spring Boot, conh
 ### Meus últimos projetos: 
 
 - [API Fisio](https://github.com/EvertonJunior/api-fisio)
-- [Restaurant Reservation](https://github.com/EvertonJunior/restaurant-reservation-springboot-jpa)
+- [API Authentication](https://github.com/EvertonJunior/api-authentication)
