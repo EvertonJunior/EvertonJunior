@@ -2,7 +2,7 @@
 
 Sou Analista de Dados
 
-Conhecimento em Python para análise de dados com bibliotecas Pandas, matplotlib e seaborn, conhecimento em banco de dados SQL para extração e manipulação de dados, e habilidade na criação de relatórios e dashboards interativos utilizando Power BI e Excel.
+Conhecimento em Python para análise de dados com bibliotecas pandas, numpy, matplotlib e seaborn, conhecimento em banco de dados SQL para extração e manipulação de dados, e habilidade na criação de relatórios e dashboards interativos utilizando Power BI e Excel.
  
 
 ### Redes Sociais: 
